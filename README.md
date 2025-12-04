@@ -34,6 +34,22 @@ Transactions Management and Concurrency Control
 
 Recovery
 
+
+
+## 📚 **Teaching Staff**
+Professor Cristina Wanzeller
+
+Professor Artur Sousa
+
+
+
+## ⚠️ **Disclaimer**
+This is a university purpose project and may contain suboptimal practices or even errors.
+
+If you have any questions or suggestions, feel free to ask.
+
+This repository is public and it is intended for archival and educational purposes only.
+
 Integration with other technologies
 
 Database Management Systems, SQL language and tools for application programming.

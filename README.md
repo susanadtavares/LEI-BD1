@@ -34,6 +34,10 @@ Transactions Management and Concurrency Control
 
 Recovery
 
+Integration with other technologies
+
+Database Management Systems, SQL language and tools for application programming.
+
 
 
 ## 📚 **Teaching Staff**
@@ -50,7 +54,5 @@ If you have any questions or suggestions, feel free to ask.
 
 This repository is public and it is intended for archival and educational purposes only.
 
-Integration with other technologies
 
-Database Management Systems, SQL language and tools for application programming.
 
